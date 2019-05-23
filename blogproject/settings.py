@@ -25,7 +25,7 @@ SECRET_KEY = '!2y9*(i1%hqny4k2hx+q+y(!i&ywrtctdv^vk_x#jmxa-j4l78'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost '，'lvxy.ink']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', 'lvxy.ink']
 
 
 # Application definition
